@@ -9,7 +9,7 @@ function generateCard() {
     }
 
     document.getElementById("cardTitle").innerHTML =
-        "Happy Hearts's Day from " + name + " 💕";
+        "Happy Hearts' Day from " + name + " 💕";
 
     document.getElementById("cardMessage").innerHTML =
         message + " 🌹💖";
@@ -59,6 +59,7 @@ function showAlert(message) {
 function closeAlert() {
     document.getElementById("customAlert").style.display = "none";
 }
+
 
 
 
