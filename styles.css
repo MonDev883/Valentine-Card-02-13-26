@@ -192,4 +192,12 @@ button:hover {
     font-weight: bold;
     cursor: pointer;
 }
+.download-message {
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: 600;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
 
